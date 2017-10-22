@@ -30,6 +30,12 @@ public class Encapsulation {
           System.out.println(personArray[i].getFirstName());
           }
 
+          
+          Task t = new Task();
+          Task t1 = new Task();
+          Task t2 = new Task();
+
+          System.out.println(t2.taskNo);
     }
    
 }
